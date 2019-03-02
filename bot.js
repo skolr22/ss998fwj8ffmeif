@@ -14,7 +14,7 @@ const queue = new Map();
 
 const ytdl = require('ytdl-core'); // npm i ytdl-core
 
-const fs = require('fs'); // npm i fs
+const fs = require('fs'); 
 
 const gif = require("gif-search"); // npm i gif-search
 
